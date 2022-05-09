@@ -1,1 +1,1 @@
-[![juzimao's GitHub stats](https://github-readme-stats.vercel.app/api?username=106umao&show_icons=true&theme=radical)](https://github.com/106umao/juzimao)
+[![juzimao's GitHub stats](https://github-readme-stats.vercel.app/api?username=106umao&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/106umao/juzimao)
