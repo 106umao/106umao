@@ -12,12 +12,12 @@
 ✍️ &nbsp;When I'm free, I will fiddle with my linux desktop environment and think how to beautify it.\
 💬 &nbsp;You are welcome to discuss knowledge related to programming technology with me, and it is not impossible to discuss other interesting things in life.\
 ✉️ &nbsp;You can shoot me an email at 578961953@qq.com! I'll try to respond as soon as I can.\
-📄 &nbsp;&nbsp;I am looking for a job so that I can eat without starving, if you are interested in me, you can check my [resume]() for details!
-<img alt="member" width="20px" src="./assets/members.png"/> I'm a member of the open source project seatago
+📄 &nbsp;&nbsp;I am looking for a job so that I can eat without starving, if you are interested in me, you can check my [resume]() for details!\
+<img alt="member" width="20px" src="./assets/members.png"/> I'm a member of the open source project seatago\
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
+\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=Go&logoColor=FFA518)&nbsp;
