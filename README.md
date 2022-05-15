@@ -6,15 +6,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and am a junior.\
 🌱 &nbsp;I'm on track for learning more about Distributed Systems, Systems Design, and Cloud Native.\
 ✍️ &nbsp;When I am free, I will fiddle with my Linux Desktop Environment and study how to beautify it.\
 💬 &nbsp;You are welcome to discuss knowledge related to Programming Technology with me, and it is not impossible to discuss other interesting things in life.\
 ✉️ &nbsp;You can shoot me an email at 578961953@qq.com! I'll try to respond as soon as I can.\
-📄 &nbsp;I am looking for a job so that I can eat without starving, if you are interested in me, you can check [my resume]() for details!
+📄 &nbsp;&nbsp;I am looking for a job so that I can eat without starving, if you are interested in me, you can check [my resume]() for details!
 
-<img alt="Night Coding" src="https://github.com/106umao/106umao//assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
