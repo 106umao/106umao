@@ -33,14 +33,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/106umao">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=106umao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=106umao&show_icons=true&theme=buefy&count_private=false&show_owner=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=106umao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -48,6 +47,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:578961953@qq.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:578961953@qq.com"><img src="https://img.shields.io/badge/-578961953@qq.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
