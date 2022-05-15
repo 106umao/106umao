@@ -13,7 +13,7 @@
 💬 &nbsp;You are welcome to discuss knowledge related to programming technology with me, and it is not impossible to discuss other interesting things in life.\
 ✉️ &nbsp;You can shoot me an email at 578961953@qq.com! I'll try to respond as soon as I can.\
 📄 &nbsp;&nbsp;I am looking for a job so that I can eat without starving, if you are interested in me, you can check [my resume]() for details!
-&#xe613;
+<img alt="member" src="./assets/members.png"/> I'm  a committer of seata
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
