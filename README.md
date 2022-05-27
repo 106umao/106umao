@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and am a junior.\
+🎓 &nbsp;I'm currently studying computer science and am a junior.\
 🌱 &nbsp;I'm on track for learning more about distributed systems, systems design, and cloud native.\
 ✍️ &nbsp;When I am free, I will fiddle with my linux desktop environment and think how to beautify it.\
 💬 &nbsp;You are welcome to discuss knowledge related to programming technology with me, and it is not impossible to discuss other interesting things in life.\
