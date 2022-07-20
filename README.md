@@ -37,16 +37,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://github.com/106umao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=106umao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=106umao&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+</a> 
+<!-- </p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<!--<p align="center">  -->
 <a href="mailto:578961953@qq.com"><img src="https://img.shields.io/badge/-578961953@qq.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<!-- </p> -->
 
