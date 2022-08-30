@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm juzimao</h1>
 <h3 align="center">A senior programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=106umao" alt="106umao" /></a> </p>
+- 🔭 I’m currently working on [Whaleops](https://github.com/WhaleOps)
 
-- 🔭 I’m currently working on [whaleops](https://github.com/WhaleOps)
+- 🌱 I’m currently learning **Mit6.824**
 
-- 🌱 I’m currently learning **mit6.824**
-
-- 👯 I’m looking to collaborate on [seata go](https://github.com/seata/seata-go)
+- 👯 I’m looking to collaborate on [Seatago](https://github.com/seata/seata-go)
 
 - 📫 How to reach me **578961953@qq.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=106umao&show_icons=true&locale=en" alt="106umao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=106umao&" alt="106umao" /></p>
