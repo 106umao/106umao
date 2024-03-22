@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm juzimao</h1>
 <h3 align="center">A senior programmer</h3>
 
-- 🔭 I’m currently working on KuaiShou...
-
-- 🌱 I’m currently learning **MIT6.824** **MIT6.s081** **CSAPP** ...
-
-- 👯 I’m looking to collaborate on [Seatago](https://github.com/seata/seata-go)...
-
-- 📫 How to reach me **578961953@qq.com**...
-
 <p align="left">
 </p>
 
